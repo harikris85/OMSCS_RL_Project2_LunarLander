@@ -1,5 +1,5 @@
 # OMSCS_RL_Project2_LunarLander
-Deep Reinforcement Learning with Double Q Network (DDQN) based approach to solve Open AI Gym open Ai Lunar Lander Problem
+Deep Reinforcement Learning with Double Q Network (DDQN) based approach to solve Open AI Gym OpenAI Lunar Lander Problem
 https://gym.openai.com/envs/LunarLander-v2/
 
 # Problem 
